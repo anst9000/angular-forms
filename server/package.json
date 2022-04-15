@@ -1,0 +1,17 @@
+{
+  "name": "angular-forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node ."
+  },
+  "keywords": [],
+  "author": "Anders Stromberg <coltlaboy@yahoo.se> (https://ackeprojects.xyz/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
